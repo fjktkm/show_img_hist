@@ -5,7 +5,7 @@ from skimage.io import imread
 
 
 # download the image
-img_url = 'https://pbs.twimg.com/media/FszEfbRaIAAXqba?format=jpg&name=4096x4096'
+img_url = 'https://pbs.twimg.com/media/FszEfbRaIAAXqba.jpg'
 
 im = imread(img_url)
 
